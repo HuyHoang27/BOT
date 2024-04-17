@@ -1,0 +1,10 @@
+opencv-python>=4.1.1
+playsound==1.2.2
+langchain
+openai 
+pyaudio
+wave
+yolov9pip
+tiktoken
+streamlit==1.28.1
+chromadb==0.4.17
