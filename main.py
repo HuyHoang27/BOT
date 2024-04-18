@@ -17,8 +17,8 @@ from langchain.llms import OpenAI as ai
 import yolov9
 import re
 
-os.environ["OPENAI_API_KEY"] = "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"
-API_KEY = "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"
+os.environ["OPENAI_API_KEY"] = "..."
+API_KEY = "..."
 is_recording = False
 bill = None
 face_classifier = cv2.CascadeClassifier(
